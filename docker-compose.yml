@@ -14,7 +14,7 @@ services:
 
     labels:
       # set this to the hostname you want
-      caddy: thyre.cth4n.me
+      caddy: thyre.co
       caddy.reverse_proxy: "{{upstreams 3000}}"
 
 networks:
