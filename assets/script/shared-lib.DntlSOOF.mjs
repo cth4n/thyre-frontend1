@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Bog7j6PM.mjs";function t(e,t){return{description:`thyre.co is a US-based dev studio, we focus on developing solutions for companies and developers.`,favicon:`https://framerusercontent.com/assets/PuAtd551CBFY68fvCbyhthXNM.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/qE7kWnUaZqdeiCISYY6mRha7c.png`,title:`thyre.co`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.DntlSOOF.mjs.map
